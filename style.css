@@ -92,11 +92,11 @@ img{
     transform: translateY(100%);
 }
 span{
-    font-size: 2.5rem;
+    font-size: 2rem;
     color: orangered;
     font-weight: 600;
-    margin-left: 12%;
+    margin-left: 15%;
 }
 .text{
-    margin-left: 190px ;
+    margin-left: 30% ;
 }
